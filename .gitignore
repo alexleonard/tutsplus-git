@@ -1,0 +1,5 @@
+tmp
+.hidden_file
+*.swp~
+test/*.txt
+!test/master.txt
